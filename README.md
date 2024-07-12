@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PyTorch, LangChain, Linear Algebra, Statistics**
 
-- 📫 How to reach me **shaeffek@bc.edu**
+- 📫 How to reach me **kamdynshaefferbusiness@gmail.com**
 
 - ⚡ Fun fact **I'm an avid reader of political philosophy. Love Hegel and Plato!**
 

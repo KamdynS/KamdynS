@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **CultureX**
 
-- 🌱 I’m currently learning **Go and basic React for full-stack GenAI projects.**
+- 🌱 I’m currently learning **C++.**
 
 - 💬 Ask me about **PyTorch, LangChain, Linear Algebra, Statistics**
 

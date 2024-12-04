@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamdyn Shaeffer</h1>
-<h3 align="center">A motivated AI Engineer/Data Scientist working in Boston</h3>
+<h3 align="center">A motivated Machine Learning Engineer working in Boston</h3>
 
-- 🔭 I’m currently working at **CultureX**
+- Who I am: I am currently head of engineering for an early stage startup called Preloved Guru
 
-- 🌱 I’m currently learning **C++.**
+- How to reach me: **kamdynshaefferbusiness@gmail.com**
 
-- 💬 Ask me about **PyTorch, LangChain, Linear Algebra, Statistics**
-
-- 📫 How to reach me **kamdynshaefferbusiness@gmail.com**
-
-- ⚡ Fun fact **I'm an avid reader of political philosophy. Love Hegel and Plato!**
+-  Fun fact: **I'm an avid reader of political philosophy. Love Hegel and Plato!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

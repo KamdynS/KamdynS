@@ -1,9 +1,10 @@
 # Kamdyn Shaeffer
 
-Backend + AI engineer at Subsplash, focused on inference and production LLM systems. Previously built a multi-model video pipeline (Whisper → LLM → YOLO) at AgentPress and scaled it 4x on Kubernetes.
-Right now I am doing inference and agentic systems for Subsplash.
+Backend + AI engineer at Subsplash, working on inference and agentic systems. Previously built a multi-model video pipeline (Whisper → LLM → YOLO) at AgentPress and scaled it 4x on Kubernetes.
 
-Most of my work lives in private GitLab repos; this is where side projects and experiments go. Currently learning Rust.
+Side projects: 🦀 vLLM-oxide (vLLM's engine in Rust) · Absolem (visualize a diff's shape before code review)
+
+Most of my work lives in private GitLab repos; this is where side projects and experiments go.
 
 ### 📫 Connect
 

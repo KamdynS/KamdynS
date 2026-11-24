@@ -1,8 +1,9 @@
 # Kamdyn Shaeffer
 
-Hello, I'm Kamdyn. I am a backend/AI engineer at Subplash. Outside of my day job, I'm currently learning Rust. Mostly for fun.
+Backend + AI engineer at Subsplash, focused on inference and production LLM systems. Previously built a multi-model video pipeline (Whisper → LLM → YOLO) at AgentPress and scaled it 4x on Kubernetes.
+Right now I am doing inference and agentic systems for Subsplash.
 
-this github may seem a little sparse. I use GitLab at work and do not publish many of my side projects. 
+Most of my work lives in private GitLab repos; this is where side projects and experiments go. Currently learning Rust.
 
 ### 📫 Connect
 
